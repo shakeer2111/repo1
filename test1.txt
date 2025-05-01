@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is DC5D-99D9
+
+ Directory of C:\Users\afree\Desktop\GIT Projects
+
+01-05-2025  16:52    <DIR>          .
+01-05-2025  16:49    <DIR>          ..
+01-05-2025  16:52                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  108,919,762,944 bytes free
